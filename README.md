@@ -6,7 +6,7 @@ COMPANY : CODTECH IT SOLUTIONS
 
 DURATION : JUNE TO JULY 2024
 
-ID : CT04ML2337
+ID : CT08DS1733
 
 Overview of Credit Card Fraud Detection Project Project Goal . The primary goal of this project is to develop a machine learning model that can accurately detect fraudulent credit card transactions. Given the highly imbalanced nature of the dataset, the project aims to handle data preprocessing, model training, and evaluation to achieve high performance in identifying fraudulent activities.
 
