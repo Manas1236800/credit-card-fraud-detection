@@ -2,12 +2,6 @@ NAME : MANAS MOOLCHANDANI
 
 DOMAIN : MACHINE LEARNING
 
-COMPANY : CODTECH IT SOLUTIONS
-
-DURATION : JUNE TO JULY 2024
-
-ID : CT08DS1733
-
 Overview of Credit Card Fraud Detection Project Project Goal . The primary goal of this project is to develop a machine learning model that can accurately detect fraudulent credit card transactions. Given the highly imbalanced nature of the dataset, the project aims to handle data preprocessing, model training, and evaluation to achieve high performance in identifying fraudulent activities.
 
 Dataset The dataset used for this project is the Credit Card Fraud Detection Dataset from Kaggle. It consists of 284,807 transactions, where only 492 are fraudulent, making it a highly imbalanced dataset. The features include:
